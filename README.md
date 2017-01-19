@@ -5,7 +5,7 @@
 * Owen Zhang [[@Owenzh](https://github.com/Owenzh)] :boy: 
   - EagleEye-App
   - EagleEye-Platform
-* Tweety Rang [[@SijingRang](https://github.com/SijingRang)] :girl: 
+* Tweety SiJing Rang [[@SijingRang](https://github.com/SijingRang)] :girl: 
   - EagleEye-App
   - EagleEye-Platform
 * Jory Wang [[@JoryOne](https://github.com/JoryOne)] :boy: 
